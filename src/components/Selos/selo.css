@@ -1,0 +1,27 @@
+.selos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 500px;
+    background-color: #212529;
+}
+
+.containerSelo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+ 
+.imgs {
+    margin-top: 80px;
+    height: 190px;
+    box-shadow: 10px 20px  10px black;
+}
+
+.textoSelo {
+    margin-top: 35px;
+    font-size: 20px;
+    font-family: Trebuchet MS;
+    color: #ad6236;
+}
+

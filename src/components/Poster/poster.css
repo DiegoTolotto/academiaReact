@@ -1,0 +1,44 @@
+.containerPoster {
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    background-color: #212529;
+}
+
+.poster {
+    height: 600px;
+    width: 800px;
+    background-color: #ad6236;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px; 
+}
+
+.image {
+    height: 555px;
+    width: 785px;
+    border-radius: 25px;
+}
+
+
+.textoPoster {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.button {
+    height: 50px;
+    width: 150px;
+    background-color: #ad6236;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 25px 10px black;
+}
+
+.button:hover {
+    background-color: #855439;
+}
