@@ -1,0 +1,16 @@
+.containerNutri {
+    background-color: #c57b34;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.textoNutri {
+    background-color: #c57a34fb;
+    color: white;
+    padding: 50px;
+    font-size: 17px;
+    font-family: Trebuchet MS;
+
+}

@@ -3,6 +3,8 @@ import Header from './components/Header/Header.js';
 import Poster from './components/Poster/Poster';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Selo from './components/Selos/Selo';
+import Nutri from './components/Nutricionista/Nutri';
+import Tipos from './components/Exercicios/Tipos';
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       <Header/>
       <Poster/>
       <Selo/>
+      <Nutri/>
+      <Tipos/>
     </div>
   );
 }
